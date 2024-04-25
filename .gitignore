@@ -1,0 +1,6 @@
+tf-creds.json
+*.tfvars
+*.tfstate
+*.tfstate.backup
+*.tfplan
+.terraform
